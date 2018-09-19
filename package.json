@@ -1,0 +1,15 @@
+{
+  "name": "xnet-util",
+  "version": "1.0.0",
+  "description": "xnet utils package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xnet",
+    "utils"
+  ],
+  "author": "robin.peng@qq.com",
+  "license": "ISC"
+}
